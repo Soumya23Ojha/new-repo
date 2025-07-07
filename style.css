@@ -23,7 +23,7 @@ h1 {
     font-size: 2.5em;
     margin-bottom: 10px;
     color: #004085;
-    border-bottom: 2px solid #004085;
+    border-bottom: 2px solid #55a4f8;
     padding-bottom: 5px;
 }
 
@@ -31,18 +31,18 @@ h2 {
     font-size: 1.75em;
     margin-top: 30px;
     margin-bottom: 10px;
-    color: #0056b3;
+    color: #00b3a4;
 }
 
 /* Paragraph styles */
 p {
     font-size: 1em;
     margin-bottom: 20px;
-    text-align: justify;
+    text-align: center;
 }
 
 /* Enhance readability with subtle selection highlight */
 ::selection {
     background: #cce5ff;
-    color: #003366;
+    color: #0783ff;
 }
