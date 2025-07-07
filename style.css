@@ -1,0 +1,48 @@
+/* Global Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 40px;
+    background-color: #f8f9fa;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Container div styling */
+div {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #ffffff;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* Heading styles */
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #004085;
+    border-bottom: 2px solid #004085;
+    padding-bottom: 5px;
+}
+
+h2 {
+    font-size: 1.75em;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #0056b3;
+}
+
+/* Paragraph styles */
+p {
+    font-size: 1em;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+/* Enhance readability with subtle selection highlight */
+::selection {
+    background: #cce5ff;
+    color: #003366;
+}
